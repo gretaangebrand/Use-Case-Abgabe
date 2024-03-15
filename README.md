@@ -8,7 +8,7 @@
 - Diagnostiker:in
 
 ## Status
-- Abgeschlossen
+- in Arbeit
 
 ## Verwendete Anwendungsfälle
 - UC 1.07 (Abbruch des Leistungstests)
