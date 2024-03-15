@@ -1,27 +1,38 @@
-# Use-Case-Abgabe
-## UC 1.03 (Alarm bei zu hoher Herzfrequenz)
-### Name und Identifikationsnummer
+# Use-Case-Abgabe - Leistungsdiagnostik
 
-### Beschreibung
+## Name und Identifikationsnummer  
+- UC 1.06 (Anstrengungsbewertung bei Leistungstest mittels BORG-Skala durch Proband:in)
+- Beschreibung: Der/Die Proband:in gibt nach dem Leistungstest die Anstrengungsbewertung mittels BORG-Skala ab
 
-### Beteiligte Akteure
+## Beteiligte Akteure
+- Diagnostiker:in
 
-### Status
+## Status
+- Abgeschlossen
 
-### Verwendete Anwendungsfälle
+## Verwendete Anwendungsfälle????
+- UC 1.01 (Probandin anlegen)
+- UC 1.02 (Leistungstest anlegen)
 
-### Auslöser
+## Auslöser
+- Durchführung einer standardisierten Leistungsdiagnose
 
-### Vorbedingungen
+## Vorbedingungen
+- UC 1.01 (Probandin anlegen)
+- UC 1.02 (Leistungstest anlegen)
 
-### Invarianten
+## Invarianten
+- Aufzeichnung aller Daten bis zum Abbruch
 
-### Nachbedingung/Ergebnis
+## Nachbedingung/Ergebnis
+- Ergometer wird in Ruhemodus versetzt (UC 2.01)
+- Elektroden auf Proband:in werden entfernt
+- Daten gespeichert
 
-### Standardablauf
+## Standardablauf
 
-### Alternative Ablaufschritte
+## Alternative Ablaufschritte
 
-### Hinweise
+## Hinweise
 
-### Änderungsgeschichte
+## Änderungsgeschichte
