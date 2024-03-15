@@ -48,4 +48,4 @@
 - Beispiele: Beispiele für typische Aktivitäten oder Situationen, bei denen die BORG-Skala verwendet werden kann, um der Proband:in eine bessere Vorstellung davon zu geben, wie er/sie  Anstrengung bewerten sollen
 
 ## Änderungsgeschichte
-0.01; 15.03.2024.; Greta Angebrand
+0.01 | 15.03.2024 | Greta Angebrand
